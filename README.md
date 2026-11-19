@@ -1,2 +1,2 @@
 # GitHubActions
-This is an automated workflow ebnvironment 
+This is an automated workflow environment 
